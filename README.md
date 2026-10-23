@@ -1,4 +1,4 @@
-<h1 align="center">#Projede Yer Alan ve Yönetenler:
+<h1 align="center">Projede Yer Alan ve Yönetenler:
 Muhammed Taha Yeşilkır - https://github.com/kral-mty-245</h1>
 <p align="center">
   <img src="https://media.base44.com/images/public/6a3d316877e69ab6f30854db/e0ef1f6f6_Gemini_Generated_Image_cpbfmbcpbfmbcpbf.png" alt="Beşiktaş Gazi Osman Paşa Ortaokulu logosu" width="150">
